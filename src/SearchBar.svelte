@@ -33,7 +33,6 @@
         <span class="linksNext">
           <a href="https://video.difres.ru" class="blue-text" target="_blank">Видео</a>
         <a href="https://schedule.difres.ru" class="blue-text" target="_blank">Расписание</a>
-        <a href="https://jsstore.difres.ru" class="blue-text" target="_blank">JS Store</a>
         <a href="https://qna.difres.ru" class="blue-text" target="_blank">Вопросы и ответы</a>
         <a href="https://gradientwallpapers.difres.ru" class="blue-text" target="_blank">Коллекция обоев</a>
         </span>
